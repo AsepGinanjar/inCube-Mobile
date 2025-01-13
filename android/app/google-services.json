@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "675108066038",
+    "firebase_url": "https://prokimnas-87b7d-default-rtdb.firebaseio.com",
+    "project_id": "prokimnas-87b7d",
+    "storage_bucket": "prokimnas-87b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675108066038:android:173aff6c596df492fa52d7",
+        "android_client_info": {
+          "package_name": "com.example.incube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675108066038-o723disb3ql6apthgqdon1gvpkrnsne5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.incube",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "675108066038-41agqv5eo66kjmjto8cpc0jifatt8vml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzatbTgZJJo1gpHIochmjR-MD4Pxc6SrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675108066038-41agqv5eo66kjmjto8cpc0jifatt8vml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675108066038-d9j3jk85m5infqbi033g6q9qig2jm20g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.incube.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675108066038:android:34db2c937ee52413fa52d7",
+        "android_client_info": {
+          "package_name": "com.mycompany.incube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675108066038-p4t2mepth3d3rcn7u6k6e2902qc3oqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.incube",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "675108066038-41agqv5eo66kjmjto8cpc0jifatt8vml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzatbTgZJJo1gpHIochmjR-MD4Pxc6SrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675108066038-41agqv5eo66kjmjto8cpc0jifatt8vml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675108066038-d9j3jk85m5infqbi033g6q9qig2jm20g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.incube.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
